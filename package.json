@@ -67,7 +67,7 @@
         "typescript": "5.0.4"
     },
     "dependencies": {
-        "jest-matcher-utils": "^29.5.0",
+        "jest-matcher-utils": "^29.6.0",
         "tslib": "^2.5.2"
     }
 }
