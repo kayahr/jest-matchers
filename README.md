@@ -1,6 +1,9 @@
 jest-matchers
 =============
 
+| :warning: This project is no longer maintained because the author switched from Jest to [Vitest](https://vitest.dev/) :warning: |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+
 Some additional [Jest] matchers I usually use in my projects.
 
 
